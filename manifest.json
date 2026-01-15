@@ -2,7 +2,7 @@
   "required_api_version": "^2.0.0",
   "name": "Stretchly Controller",
   "description": "Control Stretchly (Flatpak) via 'st reset' and 'st toggle'",
-  "developer_name": "Developer",
+  "developer_name": "Alex",
   "icon": "images/icon.svg",
   "options": {
     "query_debounce": 0.05
@@ -13,7 +13,7 @@
       "type": "keyword",
       "name": "Stretchly",
       "description": "Keyword to trigger Stretchly commands",
-      "default_value": "xxx"
+      "default_value": "st"
     }
   ]
 }
