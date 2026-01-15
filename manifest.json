@@ -7,13 +7,13 @@
   "options": {
     "query_debounce": 0.05
   },
-  "preferences": [],
-  "keywords": [
+  "preferences": [
     {
       "id": "st_kw",
+      "type": "keyword",
       "name": "Stretchly",
-      "keyword": "st",
-      "default_value": "st"
+      "description": "Keyword to trigger Stretchly commands",
+      "default_value": "xxx"
     }
   ]
 }
